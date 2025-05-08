@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Türkiye'nin başkenti neresidir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Dünya üzerinde en büyük okyanus hangisidir?",
+    "options": ["Hint Okyanusu", "Atlantik Okyanusu", "Arktik Okyanusu", "Pasifik Okyanusu"],
+    "correctIndex": 3
+  },
+  {
+    "text": "Flutter hangi programlama diliyle yazılır?",
+    "options": ["Kotlin", "JavaScript", "Dart", "Swift"],
+    "correctIndex": 2
+  },
+  {
+    "text": "Pi sayısı hangi değere daha yakındır?",
+    "options": ["2,14", "3,14", "4,14", "5,14"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Işık hızına en yakın hızda hareket eden gök cismi hangisidir?",
+    "options": ["Kuyruklu yıldız", "Nötron yıldızı", "Kara delik jet akımları", "Asteroit"],
+    "correctIndex": 2
+  }
+]
