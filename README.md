@@ -1,16 +1,16 @@
-# quiz_app
+# 🎯 Flutter Quiz App
 
-A new Flutter project.
+Bu uygulama, Flutter kullanılarak geliştirilmiş modern bir quiz uygulamasıdır. Kullanıcılar kısa sorulara cevap verir, zamanla yarışır ve geçmiş skorlarını görebilir.
 
-## Getting Started
+## ✨ Özellikler
 
-This project is a starting point for a Flutter application.
+- ✅ İsim girerek quiz başlatma
+- ⏱️ Her soru için 15 saniyelik geri sayım
+- ⏳ Toplam sınav süresi takibi
+- 📊 Sonuç ekranında animasyonlu skor çemberi
+- 🧠 Geçmiş skorları listeleme ve silme
+- 🌙 Koyu tema + özel mavi vurgular (RGB 31, 44, 55 arka plan, mavi aksan)
+- 🚀 Splash ekranı ile yumuşak açılış
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 Proje Yapısı
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
